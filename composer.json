@@ -1,0 +1,13 @@
+{
+	"name": "theknarf/predump",
+	"description": "A package to expose the debug method predump",
+	"authors": [{
+		"name": "Frank Lyder Bredland",
+		"email": "fl@nyggen.com"
+	}],
+	"autoload": {
+		"psr-0": {
+			"theknarf": "src/"
+		}
+	}
+}
